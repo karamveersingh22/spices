@@ -6,9 +6,8 @@
    Call / WhatsApp button on the site updates automatically.
    =========================================================== */
 const CONTACT = {
-  // Placeholder — replace with the real business number (digits only for wa.me, incl. country code 91)
-  PHONE: '+91 XXXXX XXXXX',          // shown / used for tap-to-call
-  WHATSAPP: '91XXXXXXXXXX',          // wa.me format: country code + number, no +, no spaces
+  PHONE: '+91 62830 16994',          // shown / used for tap-to-call
+  WHATSAPP: '916283016994',          // wa.me format: country code + number, no +, no spaces
   WA_MESSAGE: 'Hello Giani Enterprises, I would like a wholesale quote for spices.'
 };
 
