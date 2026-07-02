@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers config for a static-assets-only site.
+  // The build runs `npx wrangler deploy`, which reads this file and
+  // publishes everything in the root directory as static assets.
+  "name": "spices",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./"
+  }
+}
